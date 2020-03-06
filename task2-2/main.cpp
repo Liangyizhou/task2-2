@@ -3,7 +3,7 @@
 
 using namespace cv;
 using namespace std;
-//调用本地摄像头
+
 int main()
 {
 	VideoCapture cap;          //实例化一个videocapture类，名称为cap
